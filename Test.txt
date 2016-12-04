@@ -5,3 +5,5 @@ test branch.
 test branch2.
 
 test issue #2
+
+test fix issue #2
